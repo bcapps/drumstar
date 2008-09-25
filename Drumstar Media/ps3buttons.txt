@@ -1,0 +1,56 @@
+Rock Band Drums
+
+1 = Yellow/Triangle
+2 = Green/X
+3 = Red/O
+4 = Blue/Square
+5 = Bass Pedal
+6 = ?
+7 = ?
+8 = ?
+9 = Select
+10 = Start
+11 = ?
+12 = ?
+13 = PS Button
+Hatswitch = Arrow Pad
+
+Blue/Square = h
+Green/X = n
+Red/O = v
+Yellow/Triangle = g
+Bass Pedal = spacebar
+Hatswitch = corresponding arrow keys
+Select = tab
+Start = Return/Enter
+PS Button = Esc
+
+-------------------
+
+PS3 Controller
+
+1 = Select
+2 = L3
+3 = R3
+4 = Start
+5 = Up Arrow
+6 = Right Arrow
+7 = Down Arrow
+8 = Left Arrow
+9 = L2
+10 = R2
+11 = L1
+12 = R1
+13 = Triangle
+14 = Circle
+15 = X
+16 = Square
+17 = PS Button
+18 = ?
+19 = ?
+
+circle = v
+square = g
+triangle = h
+X = n
+R3 = spacebar
